@@ -1,5 +1,7 @@
 # Convert-txt-to-SQL
-Convertir archivo de texto delimitado por pipe en una tabla de SQL 
+Convertir archivo de texto delimitado por pipe en una tabla de SQL.
+Este código lo hice porque tuve la necesidad de convertir archivos con demasiadas columnas (que exceden el limite de SQL) y que podemos extraer solo ciertas columnas en una tabla de SQL.
+Espero les sirva. Saludos!
 
 Importante:
 Si necesitas convertir archivos de texto en tabla de SQL puedes usar estas funciones y procedimiento almacenado.
